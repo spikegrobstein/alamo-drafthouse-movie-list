@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Lakeline",
+    "marketSlug": "austin",
+    "cinemaSlug": "lakeline",
+    "id": "0007"
+  },
+  {
+    "name": "Mueller",
+    "marketSlug": "austin",
+    "cinemaSlug": "mueller",
+    "id": "0008"
+  },
+  {
+    "name": "Ritz",
+    "marketSlug": "austin",
+    "cinemaSlug": "ritz",
+    "id": "0002"
+  },
+  {
+    "name": "Slaughter Lane",
+    "marketSlug": "austin",
+    "cinemaSlug": "slaughter-lane",
+    "id": "0006"
+  },
+  {
+    "name": "South Lamar",
+    "marketSlug": "austin",
+    "cinemaSlug": "south-lamar",
+    "id": "0004"
+  },
+  {
+    "name": "Village",
+    "marketSlug": "austin",
+    "cinemaSlug": "village",
+    "id": "0003"
+  },
+  {
+    "name": "Mason Park",
+    "marketSlug": "houston",
+    "cinemaSlug": "mason-park",
+    "id": "0102"
+  },
+  {
+    "name": "Park North",
+    "marketSlug": "san-antonio",
+    "cinemaSlug": "park-north",
+    "id": "0202"
+  },
+  {
+    "name": "Stone Oak",
+    "marketSlug": "san-antonio",
+    "cinemaSlug": "stone-oak",
+    "id": "0203"
+  },
+  {
+    "name": "Westlakes",
+    "marketSlug": "san-antonio",
+    "cinemaSlug": "westlakes",
+    "id": "0201"
+  },
+  {
+    "name": "Winchester",
+    "marketSlug": "winchester",
+    "cinemaSlug": "winchester",
+    "id": "0301"
+  },
+  {
+    "name": "Littleton",
+    "marketSlug": "denver",
+    "cinemaSlug": "littleton",
+    "id": "0401"
+  },
+  {
+    "name": "Loudoun",
+    "marketSlug": "ashburn",
+    "cinemaSlug": "one-loudoun",
+    "id": "0501"
+  },
+  {
+    "name": "Mainstreet",
+    "marketSlug": "kansas-city",
+    "cinemaSlug": "mainstreet",
+    "id": "0601"
+  },
+  {
+    "name": "Cedars",
+    "marketSlug": "dfw",
+    "cinemaSlug": "cedars",
+    "id": "0702"
+  },
+  {
+    "name": "Richardson",
+    "marketSlug": "dfw",
+    "cinemaSlug": "richardson",
+    "id": "0701"
+  },
+  {
+    "name": "San Francisco",
+    "marketSlug": "sf",
+    "cinemaSlug": "new-mission",
+    "id": "0801"
+  },
+  {
+    "name": "Yonkers",
+    "marketSlug": "yonkers",
+    "cinemaSlug": "yonkers",
+    "id": "0901"
+  },
+  {
+    "name": "Kalamazoo",
+    "marketSlug": "kalamazoo",
+    "cinemaSlug": "kalamazoo",
+    "id": "1001"
+  },
+  {
+    "name": "Montecillo",
+    "marketSlug": "el-paso",
+    "cinemaSlug": "montecillo",
+    "id": "1201"
+  },
+  {
+    "name": "Marketplace",
+    "marketSlug": "new-braunfels",
+    "cinemaSlug": "marketplace",
+    "id": "1301"
+  },
+  {
+    "name": "Lubbock",
+    "marketSlug": "lubbock",
+    "cinemaSlug": "lubbock",
+    "id": "1401"
+  },
+  {
+    "name": "Laredo",
+    "marketSlug": "laredo",
+    "cinemaSlug": "laredo",
+    "id": "1501"
+  },
+  {
+    "name": "Omaha",
+    "marketSlug": "omaha",
+    "cinemaSlug": "la-vista",
+    "id": "1601"
+  },
+  {
+    "name": "Chandler",
+    "marketSlug": "phoenix",
+    "cinemaSlug": "chandler",
+    "id": "1901"
+  },
+  {
+    "name": "Corpus Christi",
+    "marketSlug": "corpus-christi",
+    "cinemaSlug": "corpus-christi",
+    "id": "2001"
+  },
+  {
+    "name": "Downtown Brooklyn",
+    "marketSlug": "nyc",
+    "cinemaSlug": "downtown-brooklyn",
+    "id": "2101"
+  }
+]
